@@ -1,0 +1,11 @@
+C:\Users\razma\source\repos\csharpProject\csharpProject\bin\Debug\netcoreapp2.1\csharpProject.deps.json
+C:\Users\razma\source\repos\csharpProject\csharpProject\bin\Debug\netcoreapp2.1\csharpProject.runtimeconfig.json
+C:\Users\razma\source\repos\csharpProject\csharpProject\bin\Debug\netcoreapp2.1\csharpProject.runtimeconfig.dev.json
+C:\Users\razma\source\repos\csharpProject\csharpProject\bin\Debug\netcoreapp2.1\csharpProject.dll
+C:\Users\razma\source\repos\csharpProject\csharpProject\obj\Debug\netcoreapp2.1\csharpProject.csprojAssemblyReference.cache
+C:\Users\razma\source\repos\csharpProject\csharpProject\obj\Debug\netcoreapp2.1\csharpProject.csproj.CoreCompileInputs.cache
+C:\Users\razma\source\repos\csharpProject\csharpProject\obj\Debug\netcoreapp2.1\csharpProject.AssemblyInfoInputs.cache
+C:\Users\razma\source\repos\csharpProject\csharpProject\obj\Debug\netcoreapp2.1\csharpProject.AssemblyInfo.cs
+C:\Users\razma\source\repos\csharpProject\csharpProject\bin\Debug\netcoreapp2.1\csharpProject.pdb
+C:\Users\razma\source\repos\csharpProject\csharpProject\obj\Debug\netcoreapp2.1\csharpProject.dll
+C:\Users\razma\source\repos\csharpProject\csharpProject\obj\Debug\netcoreapp2.1\csharpProject.pdb
