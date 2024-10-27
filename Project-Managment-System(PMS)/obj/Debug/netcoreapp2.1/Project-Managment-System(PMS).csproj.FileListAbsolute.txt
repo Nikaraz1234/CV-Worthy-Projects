@@ -1,0 +1,11 @@
+C:\Users\razma\source\repos\Project-Managment-System(PMS)\Project-Managment-System(PMS)\bin\Debug\netcoreapp2.1\Project-Managment-System(PMS).deps.json
+C:\Users\razma\source\repos\Project-Managment-System(PMS)\Project-Managment-System(PMS)\bin\Debug\netcoreapp2.1\Project-Managment-System(PMS).runtimeconfig.json
+C:\Users\razma\source\repos\Project-Managment-System(PMS)\Project-Managment-System(PMS)\bin\Debug\netcoreapp2.1\Project-Managment-System(PMS).runtimeconfig.dev.json
+C:\Users\razma\source\repos\Project-Managment-System(PMS)\Project-Managment-System(PMS)\bin\Debug\netcoreapp2.1\Project-Managment-System(PMS).dll
+C:\Users\razma\source\repos\Project-Managment-System(PMS)\Project-Managment-System(PMS)\obj\Debug\netcoreapp2.1\Project-Managment-System(PMS).csprojAssemblyReference.cache
+C:\Users\razma\source\repos\Project-Managment-System(PMS)\Project-Managment-System(PMS)\obj\Debug\netcoreapp2.1\Project-Managment-System(PMS).csproj.CoreCompileInputs.cache
+C:\Users\razma\source\repos\Project-Managment-System(PMS)\Project-Managment-System(PMS)\obj\Debug\netcoreapp2.1\Project-Managment-System(PMS).AssemblyInfoInputs.cache
+C:\Users\razma\source\repos\Project-Managment-System(PMS)\Project-Managment-System(PMS)\obj\Debug\netcoreapp2.1\Project-Managment-System(PMS).AssemblyInfo.cs
+C:\Users\razma\source\repos\Project-Managment-System(PMS)\Project-Managment-System(PMS)\bin\Debug\netcoreapp2.1\Project-Managment-System(PMS).pdb
+C:\Users\razma\source\repos\Project-Managment-System(PMS)\Project-Managment-System(PMS)\obj\Debug\netcoreapp2.1\Project-Managment-System(PMS).dll
+C:\Users\razma\source\repos\Project-Managment-System(PMS)\Project-Managment-System(PMS)\obj\Debug\netcoreapp2.1\Project-Managment-System(PMS).pdb

@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\razma\\source\\repos\\Project-Managment-System(PMS)\\Project-Managment-System(PMS)\\Project-Managment-System(PMS).csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\razma\\source\\repos\\Project-Managment-System(PMS)\\Project-Managment-System(PMS)\\Project-Managment-System(PMS).csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\razma\\source\\repos\\Project-Managment-System(PMS)\\Project-Managment-System(PMS)\\Project-Managment-System(PMS).csproj",
+        "projectName": "Project-Managment-System(PMS)",
+        "projectPath": "C:\\Users\\razma\\source\\repos\\Project-Managment-System(PMS)\\Project-Managment-System(PMS)\\Project-Managment-System(PMS).csproj",
+        "packagesPath": "C:\\Users\\razma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\razma\\source\\repos\\Project-Managment-System(PMS)\\Project-Managment-System(PMS)\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\razma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
